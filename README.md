@@ -1,4 +1,4 @@
-**Summary of Modeling approach**
+# Project Overview
 
 Below are the key findings and insights gained from this exercise:
 
@@ -12,17 +12,26 @@ Below are the key findings and insights gained from this exercise:
 
 **Conclusion**: LightGBM model worked well as compared to XGBoost and SMOTE in terms of training time and AUC-ROC score.
 
+# System Architecture Design to deploy ML Model using AWS (One of the many approaches)
+
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/23b004d4-8c62-4846-b8a2-87f804c7ecc5)
+
+# Design framework for continuous delivery and automation of machine learning tasks
 
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/ac658333-6a14-42a5-a113-3595a0152260)
 
+# How to perform canary build?
+
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/a65611b0-7eeb-4dfe-8b3c-94c435708ddf)
+
+# What should be the strategy for ML Model Monitoring?
 
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/7290531b-d24d-419b-9291-2ac9b143d3bb)
 
+# How to perform load and stress testing?
+
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/7b0b48cd-eb81-4405-ac64-82048dcb8e00)
 
+# How to track, monitor, and audit ML training?
+
 ![image](https://github.com/akashmathur-2212/Loan-Default-Prediction/assets/63149422/a5486453-1a57-4a24-9819-4554c0e6f028)
-
-
-
